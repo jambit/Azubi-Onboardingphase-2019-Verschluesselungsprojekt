@@ -1,5 +1,4 @@
 public class Decrypter {
-    String charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZÄÜÖabcdefghijklmnopqrstuvwxyzäüöß0123456789,.!?\\\"§$%&/()=+-*\\\\_#~<>| ";
     public String decrypterrrrr(String messageToBeEncrypted, int offset){
         String encryptedMessage;
 char[] charArray = messageToBeEncrypted.toCharArray();
