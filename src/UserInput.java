@@ -14,7 +14,5 @@ public class UserInput {
         System.out.println("Please tell me if you want to decrypt (0) or encrypt (1)");
         Constants.mode = sc.nextInt();
     }
-
-
 }
 
